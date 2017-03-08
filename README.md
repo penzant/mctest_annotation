@@ -1,4 +1,4 @@
-## This repository contains
+### This repository contains
 * Links for annotations of MCTest and SQuAD that are reported in Sugawara and Aizawa (2016) and Sugawara et al. (2017)
 * Per-question(option) results of two RC systems in MCTest (dev)
 
@@ -13,7 +13,7 @@
 * https://docs.google.com/spreadsheets/d/1sSJBhC9AiokAJ4nx_O7J1MUh2SuA3gbOxX-lQ__SQX4/edit?usp=sharing
   - in Sugawara and Aizawa (2016)
 
-##### References
+#### References
 * MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text
   - Richardson et al. (2013)
   - http://aclweb.org/anthology/D13-1020
