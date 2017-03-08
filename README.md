@@ -5,7 +5,7 @@
 * Baseline and Yin ABCNN: ```mc{160,500}.dev_{baseline,habcnn}.results``` in this repository
 * Smith et al. (2015) RTE/NoRTE systems: https://github.com/elleryjsmith/UCLMCTest
 
-### Annotation of the development set of SQuAD
+### Annotation of the development set in SQuAD
 * https://docs.google.com/spreadsheets/d/1sSJBhC9AiokAJ4nx_O7J1MUh2SuA3gbOxX-lQ__SQX4/edit?usp=sharing
   - in Sugawara and Aizawa (2016)
 
