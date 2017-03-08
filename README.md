@@ -15,7 +15,7 @@
   - http://aclweb.org/anthology/D13-1020
   - https://www.microsoft.com/en-us/research/publication/mctest-challenge-dataset-open-domain-machine-comprehension-text/
 * A Strong Lexical Matching Method for the Machine Comprehension Test
-  - Smith et al., (2015)
+  - Smith et al. (2015)
   - https://aclweb.org/anthology/D/D15/D15-1197.pdf
   - https://github.com/elleryjsmith/UCLMCTest
 * Attention-Based Convolutional Neural Network for Machine Comprehension
