@@ -2,14 +2,14 @@
 * Links for annotations of MCTest and SQuAD that are reported in Sugawara and Aizawa (2016) and Sugawara et al. (2017)
 * Per-question(option) results of two RC systems in MCTest (dev)
 
-#### Anntation of MC160/MC500 development sets in MCTest
+#### Anntation of the MC160/MC500 development sets of MCTest
 * https://docs.google.com/spreadsheets/d/1yHt8IcPz2Nxrc_Mk_wMIxH3uL7pFHj_jLee4OWD12Sw/edit?usp=sharing
 
-#### Per-option results of RC systems in the development sets of MCtest
+#### Per-option results of RC systems in the MC160/MC500 development sets of MCtest
 * Baseline and Yin ABCNN: ```mc{160,500}.dev_{baseline,habcnn}.results``` in this repository
 * Smith et al. (2015) RTE/NoRTE systems: https://github.com/elleryjsmith/UCLMCTest
 
-#### Annotation of the development set in SQuAD
+#### Annotation of the development set of SQuAD (v1.1)
 * https://docs.google.com/spreadsheets/d/1sSJBhC9AiokAJ4nx_O7J1MUh2SuA3gbOxX-lQ__SQX4/edit?usp=sharing
   - in Sugawara and Aizawa (2016)
 
